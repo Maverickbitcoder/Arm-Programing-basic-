@@ -43,6 +43,3 @@ This project includes **11 ARM assembly source files**. Each program is focused 
 
 ---
 
-## 🧠 Program Highlights & Concepts
-
-Let’s break down a few key examples:
