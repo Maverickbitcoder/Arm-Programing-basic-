@@ -25,7 +25,7 @@ ARM Assembly programming helps you understand:
 
 ## 📂 What's in This Repo?
 
-This project includes **10 ARM assembly source files**. Each program is focused on a specific concept to keep learning modular and clear.
+This project includes **11 ARM assembly source files**. Each program is focused on a specific concept to keep learning modular and clear.
 
 | Filename     | Description | Concepts Covered |
 |--------------|-------------|------------------|
@@ -39,6 +39,7 @@ This project includes **10 ARM assembly source files**. Each program is focused 
 | `Code 8.s`   | Reverses the digits of a number | Modulo, division, register usage |
 | `Code 9.s`   | Checks if a number is a palindrome | Logic flow, number reversal |
 | `Code 10.s`  | Generates the Fibonacci sequence | Conditionals, loops, iterative logic |
+| `Code 11.s`  | **[placeholder until analyzed]** | **[TBD]** |
 
 ---
 
